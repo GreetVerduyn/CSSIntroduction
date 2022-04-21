@@ -1,17 +1,23 @@
 body{
     background-color: antiquewhite;
     text-align: center;
+    font-family: "Comic Sans MS";
 }
-h1 {color: plum;
-    font-size: 70px;
+h1 {color: palevioletred;
+    font-size: 80px;
+    font-family: "Comic Sans MS"  ;
     }
-h2 {color: plum}
+h2 {color: palevioletred}
 {
 
 
 }
-.quote { color: mediumpurple;
-         font-size:30px;}
+.quote { color: palevioletred;
+         font-size:30px;
+        font-weight: bold;
+    font-family: "Comic Sans MS";
+
+}
 
 .foto{
     background-image: url("https://avatars.githubusercontent.com/u/103993426?s=400&u=36285539184cc133501e9dd883126a592c014522&v=4");
