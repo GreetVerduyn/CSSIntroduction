@@ -1,0 +1,41 @@
+body{
+    background-color: antiquewhite;
+    text-align: center;
+}
+h1 {color: plum;
+    font-size: 70px;
+    }
+h2 {color: plum}
+{
+
+
+}
+.quote { color: mediumpurple;
+         font-size:30px;}
+
+.foto{
+    background-image: url("https://avatars.githubusercontent.com/u/103993426?s=400&u=36285539184cc133501e9dd883126a592c014522&v=4");
+    width: 1000px;
+    height: 200px;
+    border-style: inset mediumpurple;
+    padding: 30px;
+    margin: 30px;
+    justify-content: center;
+
+}
+
+table, th, td { table-layout: fixed;
+    border: 2px solid grey;
+    border-collapse: collapse;
+width:30%;}
+
+.container {
+    display: flex;
+    justify-content: center;
+    text-align: left;
+}
+img{
+
+
+
+}
